@@ -36,7 +36,8 @@ Requirements: Linux, a C++17 compiler (GCC 9+ or Clang 10+), CMake 3.14+.
 git clone https://github.com/karunrafi/epoll_ssl.git
 cd epoll_ssl
 mkdir build && cd build
-cmake --build  .
+cmake ..
+cmake --build .
 ```
 
 ## Run
