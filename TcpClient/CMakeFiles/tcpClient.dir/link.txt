@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG -Wl,--dependency-file=CMakeFiles/tcpClient.dir/link.d CMakeFiles/tcpClient.dir/src/tcpclient.cpp.o CMakeFiles/tcpClient.dir/mainTcpClient.cpp.o -o tcpClient  ../_deps/spdlog-build/libspdlog.a
